@@ -104,6 +104,10 @@ Route::group(['prefix' => 'mgr'], function (){
         'uses'=>'Mgr\CustomerController@index',
         'as'=>'mgrCustomer',
     ]);
+    Route::get('/customer/detail', [
+        'uses'=>'Mgr\CustomerController@detail',
+        'as'=>'mgrCustomerDetail',
+    ]);
     Route::get('/accountdetail', [
         'uses'=>'Mgr\AccountDetailController@index',
         'as'=>'mgrAccountDetail',

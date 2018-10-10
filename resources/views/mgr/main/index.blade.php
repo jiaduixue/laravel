@@ -35,3 +35,8 @@
         <a href="#" class="totop animation" data-toggle="waypoints totop" data-marker="#main" data-showanim="bounceIn" data-hideanim="bounceOut" data-offset="-50%"><i class="ico-angle-up"></i></a>
     </section>
 @endsection
+@section('footer')
+
+
+@endsection
+

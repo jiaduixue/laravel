@@ -180,3 +180,4 @@
         });
     }
 </script>
+@yield('footer')

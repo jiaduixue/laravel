@@ -2,8 +2,8 @@
 namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\DB;
-class Customer extends Model{	//设置表名
-     protected $table = 'Customer';
+class Channel extends Model{	//设置表名
+     protected $table = 'Channel';
      protected $primaryKey = 'id';
 	 public static function get($value='')
 	 {
