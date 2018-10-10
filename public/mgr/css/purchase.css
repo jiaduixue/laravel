@@ -1,0 +1,43 @@
+.search-panel .selectize-control.single .selectize-input{border-radius: 0 4px 4px 0; display: inline-block; float: left;}
+
+.selectize-dropdown .selectize-dropdown-content .create{display:none !important;}
+/* purchase */
+.purchase-panel .panel .table tbody tr:hover,.purchase-panel .panel .table tbody tr:nth-child(2n):hover{background-color:#fffcdd;}
+.purchase-panel .panel .table tbody tr:nth-child(2n){ background-color:#f9f9f9;}
+.purchase-panel .panel .table tbody tr td{ padding:5px; font-weight:normal;}
+.purchase-panel .panel .table tr th, .purchase-panel .panel .table tr td{ padding:8px 5px; }
+#main .purchase-panel .panel .table tr > th, #main .purchase-panel .panel .table > thead > tr > th{padding:5px; font-weight:normal; background-color:#f9f9f9 !important; color:#5e5e5e;  line-height: 1em;}
+#main .purchase-panel .panel .table tr > td{ background-color:transparent;}
+.purchase-panel .panel .panel-primary .panel-heading:hover{ background-color:#00a5d2;}
+
+.purchase-panel .panel-group{ margin:0;}
+.adaptive-panel .panel-footer{ border-top:0;}
+.adaptive-panel .panel-body{ position:relative;}
+
+
+.panel-primary .panel-title .unfoldicon:hover, .panel-primary .panel-title .unfoldicon:active,  .panel-primary .panel-title .unfoldicon:focus{ color:#fff;}
+.panel-default .panel-group .panel{ overflow:inherit;}
+
+.container-fluid.purchase-panel{ position:relative;}
+.adaptive-panel .panel-footer{ border-top:0;}
+.adaptive-panel .panel-body{ position:relative;}
+
+.container-fluid.purchase-panel.fixedbottom{ padding-bottom:80px; position:relative;}
+.container-fluid.purchase-panel.fixedbottom .adaptive-panel{ position:fixed; bottom:0; left:0; right:0; margin:0; border:0; background:url(../image/mask_bg.png);-moz-box-shadow:0 0 5px #ccc;-webkit-box-shadow:0 0 5px #ccc;-khtml-box-shadow:0 0 5px #ccc;box-shadow:0 0 5px #ccc;}
+.container-fluid.purchase-panel.fixedbottom .adaptive-panel .panel-body{ border:0; padding:5px 15px;}
+.container-fluid.purchase-panel.fixedbottom .adaptive-panel .panel-body .btn-primary{ top:7px;}
+.container-fluid.purchase-panel.fixedbottom .adaptive-panel .panel-footer{ display:none;}
+
+
+
+
+.table.purchase-table > thead > tr > th{ border:0 !important;}
+.table.purchase-table > tfoot  > tr > td{ background-color:#F2F7FF;}
+.purchase-table{ margin-bottom:0}
+.table.purchase-table td p{ margin:0;}
+
+.container-fluid .badge.purchase-label{ font-size:16px; height:22px; line-height:22px;}
+.purchase-panel .panel-toolbar .fixed{width: 200px;overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+
+.person-br{border-right:1px solid #ddd;}
+.person-word{word-break: break-all;word-wrap: break-word;}

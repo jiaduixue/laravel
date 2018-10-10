@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+.navbar{ background-color:rgba(21,21,21,.7);border-color:#333;}
+.head-search .search-input{ background-color:#f0f0f0;}
+.head-search .icon-search{ color:#ccc;}
+.sort-tab{ background:#333; border-bottom-color:#333; border-top-color:#333;}
+.home-user-panel .mask{ background-color:rgba(0,0,0,.5);}
+.sort-tab>li.active>a{ color:#333;}
+.btn-mamall, .btn-mamall:hover, .btn-mamall:focus, .btn-mamall:active:focus{ background-color:#333;}
+.sort-tab .category dd a.active{ border-color:#333;}
+.btn-search{ color:#fff;}
+.btn-back{ color:#fff;}
+.btn-back:hover,.btn-back:focus, .btn-back:active{ color:#fff;}
+.navbar h3{ color:#fff;}
+.navbar .nav-pills>li>a{ color:#fff;}
+.large-photo .default-price{ background-color: rgba(21,21,21,.8);}
+.owl-page.active{background-color: rgba(21,21,21,0.9);}
+.details-footer .s-text.s-text-p{ background:rgba(21,21,21,.85);}
+.popwin-footer .btn-mamall, .popwin-footer .btn-mamall:focus{ background-color:#666;}
+.modal#shippingPolicy .modal-dialog .modal-footer .btn-primary{ background-color:#333; border-color:#333;}
+.message-group.message-buyer .message-text{ background-color:#333;}
+.order-product .order-state{ background-color:#333;}
+.virtual-checkbox.icon-roundcheck{ color:#333;}
+.panel .panel-heading .panel-title{ color:#333;}
+.orderlabel li a{ border-color:#333; color:#333;}
+.ordertab{ background-color:#ccc;}
+.ordertab .nav-tabs li.active a, .ordertab .nav-tabs li.active a:hover{ color:#fff;} 
+.nodata{ background-image:url(../image/black/nodata_bg.png);}
+.nodata p{color: rgba(21,21,21,0.5);}
+.details-footer{ background:none;}
+.message-group.message-buyer .message-avatar:after{ border-color: transparent transparent transparent #333;}
+.sort-tab .category{ border-color:#333;}
+.large-photo .tips{ background:#333;}
+.btn-success{background-color:#fff; border:1px solid #333; color:#333}
+.btn-success:focus,.btn-success:active,.btn-success:hover,.btn-success:active:focus{background-color:#fff; border-color:#000; color:#333;}
+.cart-page .cartbar .btn-checkout{ background:rgba(21,21,21,.85);}
+.itemtab{ background-color:#333;}
+.itemclass.active a{ color:#333;}
+.ordertab .nav-tabs li a{ color:#333; border-color:#333; background:#fff;}
+.ordertab .nav-tabs li.active a, .ordertab .nav-tabs li.active a:hover { background-color:#333; border-color:#333;}
+.popwin .popwin-footer .btn-block.btn-success{color:#333; background-color: #fff; border:1px solid #333;}
+.sort-tab.fixed{ background-color: rgba(21,21,21,.7);}
+.goto-top{background-color: rgba(21,21,21,.7);}
+.shipping-select>a.active{ background:#333; color:#fff; border-color:#333;}
+.large-photo .btn-like{ background-color: rgba(0, 0, 0, 0.7);}
+.large-photo .btn-like.active{ background-color: rgba(0, 0, 0, 0.9);}
+.popwin button.close, .modal .modal-header button.close{ color: #999;}
+.search-nav .btn-search{ color:#333; }
